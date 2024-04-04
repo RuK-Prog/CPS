@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\WinFormsApp2\\CPS.csproj": {}
+    "C:\\Users\\User\\source\\repos\\CPS\\CPS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\WinFormsApp2\\CPS.csproj": {
+    "C:\\Users\\User\\source\\repos\\CPS\\CPS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\WinFormsApp2\\CPS.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CPS\\CPS.csproj",
         "projectName": "CPS",
-        "projectPath": "C:\\Users\\User\\source\\repos\\WinFormsApp2\\CPS.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\CPS\\CPS.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\WinFormsApp2\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\CPS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pqG+GLz2ewDUMcrobp0h45RyuNQDrOKbKhglgWjf91MD31qoC0LNLbmZMwal5+AjxmMp0PkbU+ElfKDAonOyoA==",
+  "dgSpecHash": "6GQjf9+0/9RGpf9ZsHklsOhFZg1xfEdvtFwu96HVB/MBVW/7KXKdB6tGSFMS4l+xYlBEOwVgCwhy6TSjtb4TZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\WinFormsApp2\\CPS.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\CPS\\CPS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

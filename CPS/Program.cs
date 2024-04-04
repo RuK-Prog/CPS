@@ -129,6 +129,7 @@ namespace CPS
                 {
                     if (!pMAX)
                     {
+                        playerMAX = new SoundPlayer(pMAXp);
                         playerMAX.PlayLooping();
                         pMAX = true;
                     }
@@ -145,6 +146,7 @@ namespace CPS
                 {
                     if (!pMIN)
                     {
+                        playerMIN = new SoundPlayer(pMINp);
                         playerMIN.PlayLooping();
                         pMIN = true;
                     }
