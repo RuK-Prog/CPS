@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\WinFormsApp2\bin\Debug\net6.0-windows\CPS.exe
+C:\Users\User\source\repos\WinFormsApp2\bin\Debug\net6.0-windows\CPS.deps.json
+C:\Users\User\source\repos\WinFormsApp2\bin\Debug\net6.0-windows\CPS.runtimeconfig.json
+C:\Users\User\source\repos\WinFormsApp2\bin\Debug\net6.0-windows\CPS.dll
+C:\Users\User\source\repos\WinFormsApp2\bin\Debug\net6.0-windows\CPS.pdb
+C:\Users\User\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\CPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\CPS.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\CPS.AssemblyInfo.cs
+C:\Users\User\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\CPS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\CPS.dll
+C:\Users\User\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\refint\CPS.dll
+C:\Users\User\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\CPS.pdb
+C:\Users\User\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\CPS.genruntimeconfig.cache
+C:\Users\User\source\repos\WinFormsApp2\obj\Debug\net6.0-windows\ref\CPS.dll
