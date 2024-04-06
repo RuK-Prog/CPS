@@ -12,6 +12,7 @@ Key: горячие ключи,
 	REFRESH - чтение новых параметров из ini файла, а также перезагрузка аудиодвижка.
 	Работа зависит от параметра AUTOSWITCH: =1 один раз, =0 примерно каждые полчаса работы программы CPS;
 	AUTOSWITCH - автоматическое изменение значения ключей EXIT и REFRESH на 0, после одного срабатывания данных ключей.
+Error: Содержит ошибку критического сбоя программы в последний раз.
 ===========================================================================================================================
 CPS - Control Power Status.
 Platform: Windows 10/11 .net 6.0 C#.
@@ -26,3 +27,4 @@ Key: hot keys,
 	REFRESH - reading new parameters from the ini file, as well as restarting the audio engine.
 	The operation depends on the AUTOSWITCH parameter: =1 once, =0 approximately every half hour of the CPS program;
 	AUTOSWITCH - automatically changes the value of the EXIT and REFRESH keys to 0, after one activation of these keys.
+ Error: Contains a critical program failure error for the last time.
